@@ -1,6 +1,7 @@
 # Yelp-Data-Analysis-Using-Hive
 
 **Description Problem Statement**
+
 Provide a high level, general, and aggregated approach to sentiment analysis.  Visualize the results to find insights.
 Overall sentiment of yelp users (yelpers) and behaviors 
 Healthcare and Food/Beverage category
